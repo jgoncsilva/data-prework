@@ -5,9 +5,9 @@ Solve the challenges following the order suggested below.
 
 **Suggested Order Based on Difficulty**  
 
-1. [Snail and well](./1.-Python/1.-Snail-and-Well)
-1. [Duel of sorcerers](./1.-Python/2.-Duel-of-Sorcerers)
-1. [Bus](./1.-Python/3.-Bus)
-1. [Robin Hood](./1.-Python/4.-Robin-Hood)
-1. [Processor temperature](./1.-Python/5.-Temperature-Processor)
+1. [Snail and well](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/1.-Snail-and-Well/snail-and-well.ipynb)
+1. [Duel of sorcerers](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/2.-Duel-of-Sorcerers/duel-of-sorcerers.ipynb)
+1. [Bus](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/3.-Bus/bus.ipynb)
+1. [Robin Hood](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/4.-Robin-Hood/robin-hood.ipynb)
+1. [Processor temperature](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/5.-Temperature-Processor/temperature.ipynb)
 1. [Rock Paper Scissors](./1.-Python/6.-Rock–Paper–Scissors)
