@@ -10,13 +10,13 @@ That is the reason why you are asked to submit all the `Practice Exercises` and 
 
 Here's the complete list of exercises you need to deliver:
 
-**WEEK 1**
+**WEEK 1** [Answers](https://github.com/jgoncsilva/data-prework/blob/master/2.-Statistics/Week_1_Answers.pdf)
 * Building Blocks for Problem Solving - Practice quiz on Sets (3 questions)
 * The infinite World of Real Numbers - Practice quiz on the Number Line, including Inequalities (8 questions)
 * That Jagged S Symbol - Practice quiz on Simplification Rules and Sigma Notation (6 questions)
 * That Jagged S Symbol - Graded quiz on Sets, Number Line, Inequalities, Simplification, and Sigma Notation (13 questions)
 
-**WEEK 2**
+**WEEK 2** [Answers](https://github.com/jgoncsilva/data-prework/blob/master/2.-Statistics/Week_2_Answers.pdf)
 * Descartes Was Really Smart - Practice quiz on the Cartesian Plane (5 questions)
 * Input-Output Machines - Practice quiz on Types of Functions (6 questions)
 * Input-Output Machines - Graded quiz on Cartesian Plane and Types of Function (13 questions)
