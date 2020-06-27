@@ -10,4 +10,4 @@ Solve the challenges following the order suggested below.
 1. [Bus](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/3.-Bus/bus.ipynb)
 1. [Robin Hood](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/4.-Robin-Hood/robin-hood.ipynb)
 1. [Processor temperature](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/5.-Temperature-Processor/temperature.ipynb)
-1. [Rock Paper Scissors](./1.-Python/6.-Rock–Paper–Scissors)
+1. [Rock Paper Scissors](https://github.com/jgoncsilva/data-prework/blob/master/1.-Python/6.-Rock%E2%80%93Paper%E2%80%93Scissors/rock-paper-scissors.ipynb)
